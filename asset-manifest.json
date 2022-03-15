@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.f4d1670a.chunk.css",
-    "main.js": "/static/js/main.e30e7ab5.chunk.js",
-    "main.js.map": "/static/js/main.e30e7ab5.chunk.js.map",
+    "main.css": "/static/css/main.c5034033.chunk.css",
+    "main.js": "/static/js/main.92fd8d74.chunk.js",
+    "main.js.map": "/static/js/main.92fd8d74.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2f6c44b3.js",
     "runtime-main.js.map": "/static/js/runtime-main.2f6c44b3.js.map",
     "static/js/2.c463c11e.chunk.js": "/static/js/2.c463c11e.chunk.js",
@@ -20,7 +20,7 @@
     "index.html": "/index.html",
     "static/css/3.c87ebc13.chunk.css.map": "/static/css/3.c87ebc13.chunk.css.map",
     "static/css/4.b0202ba7.chunk.css.map": "/static/css/4.b0202ba7.chunk.css.map",
-    "static/css/main.f4d1670a.chunk.css.map": "/static/css/main.f4d1670a.chunk.css.map",
+    "static/css/main.c5034033.chunk.css.map": "/static/css/main.c5034033.chunk.css.map",
     "static/js/2.c463c11e.chunk.js.LICENSE.txt": "/static/js/2.c463c11e.chunk.js.LICENSE.txt",
     "static/media/1.76f2de43.png": "/static/media/1.76f2de43.png",
     "static/media/2.1c3bde7c.png": "/static/media/2.1c3bde7c.png",
@@ -69,12 +69,14 @@
     "static/media/gameplay.1eb85540.MP4": "/static/media/gameplay.1eb85540.MP4",
     "static/media/gameplayImg.fe1837a3.png": "/static/media/gameplayImg.fe1837a3.png",
     "static/media/garisTitle.33187536.svg": "/static/media/garisTitle.33187536.svg",
+    "static/media/heroImg.92218f19.jpg": "/static/media/heroImg.92218f19.jpg",
     "static/media/iconProject.84a1eeeb.svg": "/static/media/iconProject.84a1eeeb.svg",
     "static/media/imgAbout.6dabc934.svg": "/static/media/imgAbout.6dabc934.svg",
     "static/media/imgFooter1.e1636257.svg": "/static/media/imgFooter1.e1636257.svg",
     "static/media/imgFooter2.5a03d00b.svg": "/static/media/imgFooter2.5a03d00b.svg",
-    "static/media/imgProject1.5dabde30.svg": "/static/media/imgProject1.5dabde30.svg",
+    "static/media/imgProject1.a7584b21.svg": "/static/media/imgProject1.a7584b21.svg",
     "static/media/leftArrow.96e29bcc.svg": "/static/media/leftArrow.96e29bcc.svg",
+    "static/media/listImg.f69a9cbb.svg": "/static/media/listImg.f69a9cbb.svg",
     "static/media/mainplaygame.2061e146.MP4": "/static/media/mainplaygame.2061e146.MP4",
     "static/media/mainplaygameImg.9ebd9a4b.png": "/static/media/mainplaygameImg.9ebd9a4b.png",
     "static/media/monkey.d2647e99.png": "/static/media/monkey.d2647e99.png",
@@ -102,7 +104,7 @@
   "entrypoints": [
     "static/js/runtime-main.2f6c44b3.js",
     "static/js/2.c463c11e.chunk.js",
-    "static/css/main.f4d1670a.chunk.css",
-    "static/js/main.e30e7ab5.chunk.js"
+    "static/css/main.c5034033.chunk.css",
+    "static/js/main.92fd8d74.chunk.js"
   ]
 }
